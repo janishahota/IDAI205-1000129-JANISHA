@@ -78,21 +78,32 @@ The dataset used in this project includes Instagram engagement metrics such as l
 A crucial aspect of Instagram performance is how users discover content. This analysis aims to determine the primary sources of reach, such as Home, Explore, and Hashtags, and their relative contributions to overall visibility.
 
 #### Analysis Approach: 
+-Compare reach across Home, Hashtags, Explore, and Other sources.
+-Use percentages to show each source’s contribution.
+-Visualize with stacked bar charts or donut charts.
 
 ### Engagement Metrics
 Engagement is a vital measure of content effectiveness, reflecting how users interact with posts through likes, comments, shares, and follows. This phase aims to distinguish the factors influencing engagement levels and compare content types based on interaction rates.
 
 #### Analysis Approach: 
+-Analyze Likes, Shares, Comments, and Follows.
+-Use engagement rate = (Likes + Comments + Shares) / Impressions.
+-Compare engagement across post types using bar or line charts.
 
 ### Hashtag Performance
 Hashtags play a critical role in expanding post reach and increasing engagement. The objective of this analysis is to identify trends in hashtag effectiveness, recognize high-performing hashtags, and explore their role in maximizing content visibility.
 
 #### Analysis Approach: 
+-Identify top hashtags based on Likes & Impressions.
+-Group data by hashtags to find consistent performers.
+-Use bar charts or word clouds for visualization.
 
 ### Profile Visit-to-Follow Conversion Rate
 A key performance indicator for growth on Instagram is the ability to convert profile visits into new followers. This study aims to evaluate the relationship between content performance and conversion rates, understand trends in follower acquisition, and identify content strategies that contribute to audience growth.
 
 #### Analysis Approach: 
+-Calculate Follow Rate = (Follows / Profile Visits).
+-Compare conversion across posts.
 
 ---
 
@@ -143,9 +154,16 @@ Contextual Information: Provide background information on how GramGaze can lever
 
 
 ---
+
 ## Test the Dashboard
-Publish: Publish the interactive Tableau dashboard allowing to explore insights into Instagram trends.
-Actionable Insights: Provide with recommendations based on the dashboard’s findings in storyboard, such as optimising content for specific reach sources or hashtag usage.
+Publish: The interactive Tableau dashboard was published using Google Sites, allowing to explore insights into Instagram trends. 
+Google Site Link- []()
+
+****User Testing:****
+Users were then asked for feedback on the Dashboard, on features such as the colour palette, simplicity, charts, graphs etc 
+#### Google Forms Link- [https://forms.gle/KwbRyAjVx3vkai3w6](https://forms.gle/KwbRyAjVx3vkai3w6)
+#### Responders Link- [https://docs.google.com/spreadsheets/d/1rOO_AU8JlpvtdXM-ffwlLXb_wnnhh51wFHFAu9skQlc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rOO_AU8JlpvtdXM-ffwlLXb_wnnhh51wFHFAu9skQlc/edit?usp=sharing)
+
 ---
 
 ## Conclusion
