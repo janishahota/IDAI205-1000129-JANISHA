@@ -46,9 +46,29 @@ To provide a comprehensive background, the following report outlines key methodo
 The dataset used in this project includes Instagram engagement metrics such as likes, comments, shares, follows, hashtags, and various sources of reach (Home, Explore, Hashtags, etc.). These metrics provide a comprehensive view of how posts perform on the platform.
 
 ### Data Preprocessing Steps:
-- **Handling Missing Values:** Any missing data points were either imputed with relevant statistics (mean/median) or removed if they were insignificant.
-- **Removing Duplicates:** Duplicate entries were identified and removed to prevent skewed analysis.
-- **Data Formatting for Tableau:** The cleaned dataset was structured for easy integration into Tableau, enabling detailed analysis and visualization of engagement metrics, reach sources, and hashtag performance.
+- **Remove leading/trailing spaces from column names**
+  <img width="284" alt="Screenshot 2025-02-25 at 4 40 16 am" src="https://github.com/user-attachments/assets/2a713be4-2688-4341-8937-d673543a5d5f" />
+
+-  **Drop duplicate rows:** Duplicate entries were identified and removed to prevent skewed analysis.
+  <img width="204" alt="Screenshot 2025-02-25 at 4 40 50 am" src="https://github.com/user-attachments/assets/e9096216-ed87-49c9-8f72-6dde61cb8aa9" />
+
+-  **Handle missing values (fill forward method):**
+  <img width="177" alt="Screenshot 2025-02-25 at 4 47 11 am" src="https://github.com/user-attachments/assets/e8b0a954-c831-4ece-8f77-f919295eeb26" />
+
+-  **Convert numerical columns to appropriate types:** Structured for easy integration into Tableau
+  <img width="631" alt="Screenshot 2025-02-25 at 4 47 23 am" src="https://github.com/user-attachments/assets/a506c2d6-b2e7-45db-b67f-b7253e6c9e63" />
+
+-  **Calculate total impressions and percentage of each source (Data Normalisation):** The From Home, Hashtags, Explore and Other were converted into percentages, to make analysis easier.
+<img width="808" alt="Screenshot 2025-02-25 at 4 48 13 am" src="https://github.com/user-attachments/assets/f0d5b23e-c5fc-43cd-8332-3c95be0f6f74" />
+
+
+-  **Calculate engagement rates using the original Impressions column:** The Like, Share, Save, Follow, Comment numbers were turned into rates for easier analysis
+  <img width="558" alt="Screenshot 2025-02-25 at 4 48 29 am" src="https://github.com/user-attachments/assets/6b57d83d-f766-43b1-9e66-886c212c8d44" />
+
+-  **Save cleaned dataset:** Data was saved as a CSV for easy integration into Tableau.
+<img width="492" alt="Screenshot 2025-02-25 at 4 48 41 am" src="https://github.com/user-attachments/assets/2971c8e4-1dfa-4918-b40c-1551c9793090" />
+
+
 
 ---
 
@@ -57,14 +77,22 @@ The dataset used in this project includes Instagram engagement metrics such as l
 ### Channels of Reach
 A crucial aspect of Instagram performance is how users discover content. This analysis aims to determine the primary sources of reach, such as Home, Explore, and Hashtags, and their relative contributions to overall visibility.
 
+#### Analysis Approach: 
+
 ### Engagement Metrics
 Engagement is a vital measure of content effectiveness, reflecting how users interact with posts through likes, comments, shares, and follows. This phase aims to distinguish the factors influencing engagement levels and compare content types based on interaction rates.
+
+#### Analysis Approach: 
 
 ### Hashtag Performance
 Hashtags play a critical role in expanding post reach and increasing engagement. The objective of this analysis is to identify trends in hashtag effectiveness, recognize high-performing hashtags, and explore their role in maximizing content visibility.
 
+#### Analysis Approach: 
+
 ### Profile Visit-to-Follow Conversion Rate
 A key performance indicator for growth on Instagram is the ability to convert profile visits into new followers. This study aims to evaluate the relationship between content performance and conversion rates, understand trends in follower acquisition, and identify content strategies that contribute to audience growth.
+
+#### Analysis Approach: 
 
 ---
 
@@ -73,25 +101,51 @@ To effectively present insights from the Instagram dataset, we will use a range 
 
 ### Visualizations and Interactive Features:
 - **Reach Analysis**
+  <img width="1050" alt="Screenshot 2025-02-25 at 5 00 48 am" src="https://github.com/user-attachments/assets/ab6eecda-ee1d-4a71-a7f7-7f42f3a846ab" />
+  
   - The highest reach comes from Home and Explore, with hashtags playing a significant role in discoverability.
   - Posts optimized for Explore and Hashtags tend to have higher visibility.
+    
 - **Engagement Metrics Distribution**
+  <img width="1046" alt="Screenshot 2025-02-25 at 5 01 28 am" src="https://github.com/user-attachments/assets/0d490a4d-7ef5-4c3f-a0ef-3c4fb79dab31" />
+
   - Likes and comments show a positive correlation with shares and follows.
   - Visual content with engaging captions leads to higher interaction rates.
   - Posts with interactive elements (polls, Q&A, giveaways) receive significantly higher engagement.
+ 
+
 - **Hashtag Performance**
+  <img width="1044" alt="Screenshot 2025-02-25 at 5 02 02 am" src="https://github.com/user-attachments/assets/326397e8-cf7e-4de5-adae-209c32247743" />
+
   - Trending and niche-specific hashtags drive higher impressions.
   - Overuse of generic hashtags results in lower engagement.
   - Strategic hashtag selection improves reach and discoverability.
+    
 - **Profile Visit to Follows Conversion Rate**
+  <img width="1049" alt="Screenshot 2025-02-25 at 5 02 27 am" src="https://github.com/user-attachments/assets/f69ab37d-d53c-49ee-8bcc-9f701428cbbb" />
+
   - Higher engagement posts (polls, questions) lead to an increase in profile visits.
   - Posts with strong CTA (Call-to-Action) convert visitors into followers at a higher rate.
 
 ---
 
-## Storyboard
+## Storyboard In Tableau
+
+
+
+
 **[Storyboard Created Using Canva](https://www.canva.com/)**
 
+---
+## Add Context and Annotations
+Explain Insights: Use annotations to describe the relationships between reach, engagement metrics, and hashtag performance, helping users understand the implications of each metric.
+Contextual Information: Provide background information on how GramGaze can leverage these insights to optimise future Instagram strategies.
+
+
+---
+## Test the Dashboard
+Publish: Publish the interactive Tableau dashboard allowing to explore insights into Instagram trends.
+Actionable Insights: Provide with recommendations based on the dashboard’s findings in storyboard, such as optimising content for specific reach sources or hashtag usage.
 ---
 
 ## Conclusion
