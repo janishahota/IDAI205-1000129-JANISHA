@@ -169,4 +169,12 @@ Actionable Insights: Provide with recommendations based on the dashboard’s fin
 ---
 
 ## Bibliography
-*(To be added if required)*
+-https://improvado.io/blog/instagram-analytics-dashboard
+-https://public.tableau.com/app/profile/tinu6387/viz/Instagramtrends/InstagramTrends
+-https://medium.com/@mahishag/data-analysis-using-excel-71d1c773fcf9
+-https://help.tableau.com/current/pro/desktop/en-us/viewparts_marks_markproperties_color.htm
+-https://inflact.com/tools/profile-analyzer/
+-chatgpt.com
+-https://www.kaggle.com/code/muliasujiastuti/instagram-reach-analysis
+-https://brandmentions.com/hashtag-tracker/
+
