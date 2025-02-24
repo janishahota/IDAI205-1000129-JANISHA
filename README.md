@@ -38,7 +38,7 @@ This document presents a systematic approach to assessing Instagram engagement u
 
 ## Existing Analysis
 To provide a comprehensive background, the following report outlines key methodologies in Instagram data analysis. It serves as a foundational guide to evaluating influencer reach and engagement on the platform.  
-[Research Report](https://iajit.org/PDF/Vol%2018%2C%20No.%201/19395.pdf)
+[[Research Report](https://iajit.org/PDF/Vol%2018%2C%20No.%201/19395.pdf)](https://iajit.org/PDF/Vol%2018%2C%20No.%201/19395.pdf)
 
 ---
 
