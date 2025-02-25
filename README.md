@@ -198,7 +198,7 @@ A/B test different posting strategies (timing, caption styles, hashtag groups).
 
 ## Test the Dashboard
 Publish: The interactive Tableau dashboard was published using Google Sites, allowing to explore insights into Instagram trends. 
-Google Site Link- [https://sites.google.com/view/gramgaze-insights/](https://sites.google.com/view/gramgaze-insights/)
+Google Site Link- [https://sites.google.com/view/gramgaze-insights/]([https://sites.google.com/view/gramgaze-insights/](https://sites.google.com/view/gramgaze-insights/home))
 
 ****User Testing:****
 Users were then asked for feedback on the Dashboard, on features such as the colour palette, simplicity, charts, graphs etc 
