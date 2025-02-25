@@ -121,6 +121,8 @@ A key performance indicator for growth on Instagram is the ability to convert pr
 -Calculate Follow Rate = (Follows / Profile Visits).
 -Compare conversion across posts.
 
+![Competitive Analysis Whiteboard](https://github.com/user-attachments/assets/c8da5a33-d74a-4db1-ad4d-20c4a58499c7)
+
 ---
 
 ## Design the Visuals
