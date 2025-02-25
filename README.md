@@ -122,6 +122,7 @@ A key performance indicator for growth on Instagram is the ability to convert pr
 -Compare conversion across posts.
 
 ![Competitive Analysis Whiteboard](https://github.com/user-attachments/assets/c8da5a33-d74a-4db1-ad4d-20c4a58499c7)
+[made using canva.com]
 
 ---
 
