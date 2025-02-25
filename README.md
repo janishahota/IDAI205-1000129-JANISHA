@@ -1,6 +1,13 @@
-# Scenario 2: Likes, Comments, and Aesthetics – Analyzing Instagram Trends and Engagement Metrics
+# Subject Name: The Art of Storytelling with Data
 
-## Student Information
+---
+
+## Social Media Trends and Global Health Insights Analysis using Tableau
+---
+
+## Scenario 2: Likes, Comments, and Aesthetics – Analyzing Instagram Trends and Engagement Metrics
+---
+
 **Student ID:** 1000129  
 **Name:** Janisha Hota  
 **School:** Delhi Public School Bangalore North  
