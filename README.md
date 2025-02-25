@@ -1,17 +1,18 @@
 # Subject Name: The Art of Storytelling with Data
 
----
 
 ## Social Media Trends and Global Health Insights Analysis using Tableau
----
+
 
 ## Scenario 2: Likes, Comments, and Aesthetics – Analyzing Instagram Trends and Engagement Metrics
----
+
 
 **Student ID:** 1000129  
 **Name:** Janisha Hota  
 **School:** Delhi Public School Bangalore North  
 **Email:** janishahota@gmail.com  
+
+---
 
 ## Introduction
 > "Social media is about sociology and psychology more than technology." - Brian Solis  
