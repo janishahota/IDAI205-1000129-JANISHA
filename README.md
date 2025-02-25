@@ -110,7 +110,44 @@ A key performance indicator for growth on Instagram is the ability to convert pr
 ## Design the Visuals
 To effectively present insights from the Instagram dataset, we will use a range of visualizations that make it easy to understand content trends, engagement patterns, and geographic reach. These visuals will help brands and advertisers optimize their influencer marketing strategies.
 
-### Visualizations and Interactive Features:
+### Visualizations Chosen:
+1.Stacked Bar Chart – Channels of Reach
+-Displays how reach is distributed across different sources (Home, Explore, Hashtags).
+-Identifies the most effective channels for content visibility.
+
+2.Bar Chart – Engagement Metrics
+-Compares likes, comments, shares, and follows across different posts.
+-Highlights which engagement metrics contribute most to audience interaction.
+
+3.Word Cloud – Hashtag Performance
+-Visualizes top-performing hashtags based on engagement and impressions.
+-Emphasizes the most impactful tags for optimizing content reach.
+
+4.Bar Chart – Profile Visit to Follows Conversion Rate
+-Shows the effectiveness of posts in converting profile visits into followers.
+-Identifies content strategies that improve audience growth.
+
+#### Interactive Features
+-Dynamic Filters – Segment data by content type, engagement level, or source of reach.
+-Hover-Over Insights – Display detailed metrics when hovering over chart elements.
+-Comparison Mode – Enable side-by-side analysis of different posts, hashtags, or engagement metrics.
+-Drill-Down Analysis – Allow users to explore specific engagement categories.
+-Trend Highlights – Automatically highlight significant differences in engagement or reach patterns.
+
+---
+
+## Storyboard In Tableau
+-Created a narrative storyboard in Tableau with a clear introduction, Key Insights for each graph as well as a conclusion.
+<img width="1027" alt="Screenshot 2025-02-25 at 5 32 40 am" src="https://github.com/user-attachments/assets/98d2f5df-0e0b-4bd4-baeb-a54758ebabf4" />
+<img width="1021" alt="Screenshot 2025-02-25 at 5 33 02 am" src="https://github.com/user-attachments/assets/0833b356-2df8-4332-9b04-b4e6dc79c10a" />
+<img width="1047" alt="Screenshot 2025-02-25 at 5 33 55 am" src="https://github.com/user-attachments/assets/f52d6e2d-c0f2-4ace-b1d2-15e6e6878863" />
+<img width="1045" alt="Screenshot 2025-02-25 at 5 34 17 am" src="https://github.com/user-attachments/assets/a6d1fac8-1144-47f3-9a35-af61d14d9211" />
+<img width="1055" alt="Screenshot 2025-02-25 at 5 34 35 am" src="https://github.com/user-attachments/assets/7f532472-6def-4ed4-9e72-eec8ca70f849" />
+<img width="585" alt="Screenshot 2025-02-25 at 5 34 50 am" src="https://github.com/user-attachments/assets/c0a9be07-ecd6-4354-91bf-469a4aabe915" />
+
+
+---
+## Add Context and Annotations- Visualisations and Key Insights
 - **Reach Analysis**
   <img width="1050" alt="Screenshot 2025-02-25 at 5 00 48 am" src="https://github.com/user-attachments/assets/ab6eecda-ee1d-4a71-a7f7-7f42f3a846ab" />
   
@@ -138,20 +175,16 @@ To effectively present insights from the Instagram dataset, we will use a range 
   - Higher engagement posts (polls, questions) lead to an increase in profile visits.
   - Posts with strong CTA (Call-to-Action) convert visitors into followers at a higher rate.
 
----
-
-## Storyboard In Tableau
-
-
-
-
-**[Storyboard Created Using Canva](https://www.canva.com/)**
-
----
-## Add Context and Annotations
-Explain Insights: Use annotations to describe the relationships between reach, engagement metrics, and hashtag performance, helping users understand the implications of each metric.
-Contextual Information: Provide background information on how GramGaze can leverage these insights to optimise future Instagram strategies.
-
+## Contextual Strategy: How GramGaze Can Leverage These Insights
+### 1.Boost Reach & Engagement:
+Prioritize highly engaging content formats (Reels, Carousels) for better Explore ranking.
+Refine hashtag strategy by focusing on underutilized, high-engagement tags.
+### 2.Increase Follower Growth & Retention:
+Optimize profile presentation to convert visitors into followers.
+Create content aligned with audience interests, ensuring consistency across all posts.
+### 3.Maximize Long-Term Performance:
+Analyze top-performing posts regularly to identify patterns.
+A/B test different posting strategies (timing, caption styles, hashtag groups).
 
 ---
 
