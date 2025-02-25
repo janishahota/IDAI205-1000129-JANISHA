@@ -232,7 +232,7 @@ Users were then asked for feedback on the Dashboard, on features such as the col
 ---
 
 ## Resources:
-1. **Storyboard:** [Canva](https://www.canva.com/)
+1. **Storyboard & Tabular Analysis:** [Canva](https://www.canva.com/)
 2. **Visualizations:** [Tableau Public](https://public.tableau.com/app/discover)
 3. **Data Cleaning and Preprocessing:** Python
 
