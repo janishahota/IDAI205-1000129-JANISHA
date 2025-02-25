@@ -45,7 +45,8 @@ This document presents a systematic approach to assessing Instagram engagement u
 
 ## Storyboard depicting Ideal User Experience
 
-![SA ART storyboard](https://github.com/user-attachments/assets/06b43b81-e9c1-4019-863f-aa4a4a4e72ad)
+![SA ART storyboard (1)](https://github.com/user-attachments/assets/ab24bd54-66e8-4ef7-a033-cc45c54c6fbd)
+
 
 [made using canva.com]
 
