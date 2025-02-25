@@ -245,7 +245,7 @@ Users were then asked for feedback on the Dashboard, on features such as the col
 
 -https://inflact.com/tools/profile-analyzer/
 
--chatgpt.com
+-https://chatgpt.com/
 
 -https://www.kaggle.com/code/muliasujiastuti/instagram-reach-analysis
 
