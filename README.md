@@ -42,6 +42,13 @@ This document presents a systematic approach to assessing Instagram engagement u
 - **Data Analysts & Social Media Researchers:**  
   Researchers exploring Instagram engagement trends can utilize this analysis to study behavioral patterns and industry shifts. The Tableau dashboard serves as a data-driven tool for optimizing content strategies and engagement practices.
 
+
+## Storyboard depicting Ideal User Experience
+
+![SA ART storyboard](https://github.com/user-attachments/assets/06b43b81-e9c1-4019-863f-aa4a4a4e72ad)
+
+[made using canva.com]
+
 ---
 
 ## Existing Analysis
